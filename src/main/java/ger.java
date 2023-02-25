@@ -7,6 +7,7 @@ public class ger {
         //yaz oglum turp
     //yaz kizim kereviz
         //yeni
+        //kedi
 }
 
 
