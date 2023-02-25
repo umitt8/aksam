@@ -5,5 +5,9 @@ public class ger {
         //merhaba dunya
         System.out.println("hj");
         //yaz oglum turp
-    }//yaz kizim kereviz
+    //yaz kizim kereviz
+        //yeni
+}
+
+
 }
