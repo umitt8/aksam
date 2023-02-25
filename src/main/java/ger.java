@@ -4,5 +4,6 @@ public class ger {
         System.out.println("b");
         //merhaba dunya
         System.out.println("hj");
+        //yaz oglum turp
     }//yaz kizim kereviz
 }
