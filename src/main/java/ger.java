@@ -3,5 +3,6 @@ public class ger {
         System.out.println("g");
         System.out.println("b");
         //merhaba dunya
+        System.out.println("hj");
     }
 }
